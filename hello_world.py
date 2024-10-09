@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-print("Hello World!")
-
-=======
-print("Hello world!")
->>>>>>> branches/master
+print("Hello World")
